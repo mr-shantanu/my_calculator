@@ -1,2 +1,2 @@
 # my_calculator
-This is my calculator using HTML,CSS,JS
+This is my calculator created using HTML,CSS,Java Script
